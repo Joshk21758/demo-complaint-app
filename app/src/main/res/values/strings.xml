@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FixMyStreet</string>
+    <string name="your_report_has_been_successfully_submitted">Your report has been successfully submitted!</string>
+    <string name="report">Report</string>
+    <string name="report_problem">Report problem</string>
+    <string name="report_a_community_problem_below">Report a community problem below</string>
+    <string name="todo">TODO</string>
+</resources>

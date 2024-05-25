@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043072204612",
+    "project_id": "streetfix-2f302",
+    "storage_bucket": "streetfix-2f302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043072204612:android:34652a420d2b427cf2e111",
+        "android_client_info": {
+          "package_name": "com.example.fixmystreet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0b3PBCqfaL-4oGnKj_73JYgNcOhOyICY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
